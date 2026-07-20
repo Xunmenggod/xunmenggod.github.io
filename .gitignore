@@ -1,0 +1,23 @@
+# Local agent and project notes
+.agents/
+.codex/
+references/
+
+# Private or currently unpublished documents
+documents/
+
+# Unused source and intermediate media
+assets/images/cloth-spreading-preview.webp
+assets/images/grasp.png
+assets/images/gym.jpg
+assets/images/halomi.webp
+assets/images/teaser_new.png
+assets/media/FYP_INTRO.avi
+assets/media/halomi-preview.mp4
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
